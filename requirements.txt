@@ -1,5 +1,6 @@
 openai
 langchian
-"unstruqtured[all-docs]"
 chromadb
 tiktoken
+weaviate-client
+
