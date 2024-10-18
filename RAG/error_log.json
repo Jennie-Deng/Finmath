@@ -19,7 +19,7 @@
     "Knowledge Topics": "mean variance efficiency, portfolio analysis",
     "General Topics": "Foundation of Risk Management",
     "Book Label": "foundation of risk management1",
-    "Wrong_answer" = "B",
+    "Wrong_answer": "B",
     "Wrong_reasoning_steps": [
         "Step 1: I focused on finding the portfolio with the highest return for the least risk, which led me to select Portfolio 2 as the best choice.",
         "Step 2: I incorrectly interpreted the question as asking for the most efficient portfolio, rather than identifying the suboptimal one.",
