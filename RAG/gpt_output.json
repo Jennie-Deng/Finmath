@@ -3,8 +3,10 @@
     "Question Number": 21,
     "Share Context": "",
     "Share Image": "",
+    "Share Image caption": ".....",
     "Question Text": "What is the correlation between X & Y?",
     "Image": "images/QuantitativeAnalysis1_images/21u.png",
+    "image caption":"",
     "Options": {
         "A": " 0.6330",
         "B": " 0.7044",

@@ -6,8 +6,10 @@
         "Share Image": [
             "images/CapitalMarketExpectations_images/share1-8_1.png"
         ],
+        "share image caption": "",
         "Question Text": "Wakuluk most likely seeks to mitigate which of the following biases in",
         "Image": "",
+        "image caption": "",
         "Options": {
             "A": "Availability",
             "B": "Time period",
